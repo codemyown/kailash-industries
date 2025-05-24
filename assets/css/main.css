@@ -197,7 +197,7 @@ h6, .body__overlay {
   --rs-white: #FFFFFF;
   --rs-black: #1F1F1F;
   --rs-light: #eee;
-  --rs-theme-orange: #EA5501;
+  --rs-theme-orange: #B74848;
   --rs-theme-red: #E30613;
   --rs-theme-blue: #005EB8;
   --rs-theme-light-blue: #0D80CE;
@@ -1304,7 +1304,7 @@ textarea:focus {
   color: var(--rs-white);
 }
 .rs-btn.has-theme-orange {
-  background: var(--rs-theme-orange);
+  background: #B74848;
 }
 .rs-btn.has-theme-red {
   background: var(--rs-theme-red);
@@ -2842,7 +2842,7 @@ textarea:focus {
   }
 }
 .rs-section-subtitle.has-theme-orange {
-  color: var(--rs-theme-orange);
+  color: #B74848;
 }
 .rs-section-subtitle.has-theme-red {
   color: var(--rs-theme-red);
@@ -16612,7 +16612,7 @@ html.lenis body {
   transform: translate(20px, -50%);
 }
 .rs-services-one .rs-services-tab .nav-link:hover {
-  background: var(--rs-theme-orange);
+  background: #B74848;
   color: var(--rs-white);
 }
 .rs-services-one .rs-services-tab .nav-link:hover svg {
@@ -18904,7 +18904,7 @@ html.lenis body {
   background: var(--rs-theme-yellow);
 }
 .rs-portfolio-six.has-theme-orange .rs-portfolio-content {
-  background: var(--rs-black);
+  background: #B74848;
   border: none;
 }
 .rs-portfolio-six.has-theme-orange .rs-portfolio-title {
